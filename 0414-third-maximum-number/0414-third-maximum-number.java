@@ -13,7 +13,7 @@ class Solution {
             return list.get(0);
         }
         else if(n==2){
-            return list.get(1);
+            return list.get(n-1);
         }
         return list.get(n-3);
     }
