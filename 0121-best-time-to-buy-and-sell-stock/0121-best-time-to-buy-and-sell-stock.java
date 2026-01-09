@@ -3,11 +3,20 @@ class Solution {
         int n=arr.length;
         int maxProfit=0;
         int max=Integer.MIN_VALUE;
+        //Brute force
+        // for(int i=0;i<n;i++){
+        //     for(int j=i+1;j<n;j++){
+        //         int profit=arr[j]-arr[i];
+        //         maxProfit=Math.max(maxProfit,profit);
+        //     }
+        // }
+        // return maxProfit;
+        int min=Integer.MIN_VALUE;
+        int sb=arr[0];
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                int profit=arr[j]-arr[i];
-                maxProfit=Math.max(maxProfit,profit);
-            }
+            int profit=arr[i]-sb;
+            maxProfit=Math.max(maxProfit,profit);
+            sb=Math.min(sb,arr[i]);
         }
         return maxProfit;
 }
