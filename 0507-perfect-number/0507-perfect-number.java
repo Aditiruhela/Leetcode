@@ -9,6 +9,6 @@ class Solution {
             sum+=x;
         }
         if(sum==n) return true;
-        return false;
+        else return false;
     }
 }
