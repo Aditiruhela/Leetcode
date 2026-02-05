@@ -5,15 +5,15 @@ class Solution {
         for(int i=n-1;i>=0;i--){
             int sum=arr[i]+carry;
             arr[i]=sum%10;
-            carry=sum/10;
+            carry=sum/=10;
         }
         if(carry!=0){
-            int []newArr=new int[n+1];
-            newArr[0]=carry;
+            int []ans=new int[n+1];
+            ans[0]=carry;
             for(int i=0;i<n;i++){
-                newArr[i+1]=arr[i];
+                ans[i+1]+=arr[i];
             }
-            return newArr;
+            return ans;
         }
         return arr;
     }
