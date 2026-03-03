@@ -7,4 +7,12 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aditiruhela/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
