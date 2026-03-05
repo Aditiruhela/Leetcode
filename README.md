@@ -11,6 +11,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
