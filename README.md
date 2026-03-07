@@ -39,6 +39,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aditiruhela/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [3340-check-balanced-string](https://github.com/Aditiruhela/Leetcode/tree/main/3340-check-balanced-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
