@@ -63,6 +63,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Aditiruhela/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Simulation
@@ -81,6 +82,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditiruhela/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
