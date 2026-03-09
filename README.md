@@ -65,6 +65,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Aditiruhela/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Aditiruhela/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Aditiruhela/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -86,6 +87,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditiruhela/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Aditiruhela/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
@@ -129,4 +131,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aditiruhela/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aditiruhela/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
