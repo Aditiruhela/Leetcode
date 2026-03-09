@@ -7,6 +7,7 @@ public class Solution {
         while(fast!=null && fast.next!=null){
            slow=slow.next;
            if(fast.next==null) return false;
+           fast=fast.next.next;
            if(slow==fast) return true;
         }
         return false;
