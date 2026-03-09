@@ -11,6 +11,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aditiruhela/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aditiruhela/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aditiruhela/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -37,6 +38,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditiruhela/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Aditiruhela/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aditiruhela/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aditiruhela/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Aditiruhela/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
