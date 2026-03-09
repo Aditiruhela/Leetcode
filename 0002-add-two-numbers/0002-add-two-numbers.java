@@ -12,12 +12,10 @@ class Solution {
             tempji.next=new ListNode(sum%10);
             carry=sum/10;
             tempji=tempji.next;
-            if(temp1!=null)temp1=temp1.next;
-            if(temp2!=null)temp2=temp2.next;
+            if(temp1!=null) temp1=temp1.next;
+            if(temp2!=null) temp2=temp2.next;
         }
-        if(carry>0){
-            tempji.next=new ListNode(carry);
-        }
+        if(carry!=0) tempji.next=new ListNode(carry);
         return l3.next;
     }
 }
