@@ -34,6 +34,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0234-palindrome-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Aditiruhela/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Aditiruhela/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Aditiruhela/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Aditiruhela/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aditiruhela/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3340-check-balanced-string](https://github.com/Aditiruhela/Leetcode/tree/main/3340-check-balanced-string/) | Easy |
