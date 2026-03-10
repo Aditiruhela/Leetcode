@@ -35,6 +35,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Aditiruhela/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
