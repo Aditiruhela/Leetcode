@@ -35,6 +35,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditiruhela/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Aditiruhela/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -79,6 +80,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Aditiruhela/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditiruhela/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aditiruhela/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -101,6 +103,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
