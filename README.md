@@ -36,6 +36,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditiruhela/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Aditiruhela/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -100,6 +101,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditiruhela/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Aditiruhela/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Simulation
@@ -131,6 +133,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0141-linked-list-cycle](https://github.com/Aditiruhela/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +168,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,5 +193,6 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
