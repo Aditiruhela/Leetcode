@@ -92,6 +92,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0344-reverse-string](https://github.com/Aditiruhela/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0520-detect-capital](https://github.com/Aditiruhela/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditiruhela/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditiruhela/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
