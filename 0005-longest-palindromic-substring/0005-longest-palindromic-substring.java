@@ -1,7 +1,6 @@
 class Solution {
-    private boolean palindrome(String s){
+    private boolean palindrome(String s,int i,int j){
         int n=s.length();
-        int i=0,j=n-1;
         while(i<j){
             if(s.charAt(i)!=s.charAt(j)) return false;
             i++;
@@ -10,14 +9,12 @@ class Solution {
         return true;
     }
     public String longestPalindrome(String s) {
-        char []arr=s.toCharArray();
-        int n=arr.length;
+        int n=s.length();
         String res="";
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<=n;j++){
-                    String ans=s.substring(i,j);
-                  if(palindrome(ans)){
-                    if(ans.length()>res.length()) res=ans;
+            for(int j=i;j<n;j++){
+                  if(palindrome(s,i,j)){
+                    if(j-i+1>res.length()) res=s.substring(i,j+1);
                   }
             }
         }
