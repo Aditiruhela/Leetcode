@@ -6,12 +6,12 @@ class Solution {
         else map.put(ch,1);
     }
     for(char ch:t.toCharArray()){
-        if(map.containsKey(ch)) map.put(ch,map.get(ch)+1);
-        else map.put(ch,1);
+        if(map.containsKey(ch)) map.put(ch,map.get(ch)-1);
+        else map.put(ch,-1);
     }
     char ans=' ';
     for(char ch:map.keySet()){
-        if(map.get(ch)==1){
+        if(map.get(ch)==-1){
             ans=ch;
             break;
         }
