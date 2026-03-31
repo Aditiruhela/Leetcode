@@ -1,12 +1,21 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int XOR=0;
-        for(char x:s.toCharArray()){
-            XOR^=x;
-        }
-        for(char x:t.toCharArray()){
-            XOR^=x;
-        }
-        return (char)XOR;
+    HashMap<Character,Integer>map=new HashMap<>();
+    for(char ch:s.toCharArray()){
+        if(map.containsKey(ch)) map.put(ch,map.get(ch)+1);
+        else map.put(ch,1);
     }
+    for(char ch:t.toCharArray()){
+        if(map.containsKey(ch)) map.put(ch,map.get(ch)+1);
+        else map.put(ch,1);
+    }
+    char ans=' ';
+    for(char ch:map.keySet()){
+        if(map.get(ch)==1){
+            ans=ch;
+            break;
+        }
+    }
+    return ans;
+}
 }
