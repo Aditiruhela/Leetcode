@@ -1,35 +1,27 @@
 class Solution {
-    public void swap(char []arr,int i,int j){
-        char temp=arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
-    }
     public boolean canBeEqual(String s1, String s2) {
-        char []arr1=s1.toCharArray();
-        char []arr2=s2.toCharArray();
-        int n=arr1.length;
-        if(arr1.length!=arr2.length) return false;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(j-i==2){
-                    swap(arr1,i,j);
-                    if(Arrays.equals(arr1,arr2)) return true;
-                   
-        for(int x=0;x<n;x++){
-            for(int y=i+1;y<n;y++){
-                if(y-x==2){
-                    swap(arr1,x,y);
-                    if(Arrays.equals(arr1,arr2)) return true;
-                   swap(arr1,x,y);
-                }
+        StringBuilder o1=new StringBuilder();
+        StringBuilder e1=new StringBuilder();
+        StringBuilder o2=new StringBuilder();
+        StringBuilder e2=new StringBuilder();
+        if(s1.length()!=s2.length()) return false;
+        for(int i=0;i<s1.length();i++){
+            if(i%2==0){
+                e1.append(s1.charAt(i));
+                e2.append(s2.charAt(i));
+            }else{
+                o1.append(s1.charAt(i));
+                o2.append(s2.charAt(i));
             }
         }
-        swap(arr1,i,j);
-                }
-            }
-        }
-
-        return Arrays.equals(arr1,arr2);
-
+        char[]arr1=e1.toString().toCharArray();
+        char[]arr2=o1.toString().toCharArray();
+        char[]arr3=e2.toString().toCharArray();
+        char[]arr4=o2.toString().toCharArray();
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
+        Arrays.sort(arr3);
+        Arrays.sort(arr4);
+        return Arrays.equals(arr1,arr3) &&  Arrays.equals(arr2,arr4);
     }
 }
