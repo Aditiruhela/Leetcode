@@ -6,6 +6,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditiruhela/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aditiruhela/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -35,6 +36,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0029-divide-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
