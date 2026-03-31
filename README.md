@@ -6,6 +6,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditiruhela/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aditiruhela/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Linked List
@@ -94,6 +95,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Aditiruhela/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/Aditiruhela/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/Aditiruhela/Leetcode/tree/main/0520-detect-capital/) | Easy |
@@ -166,6 +168,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0205-isomorphic-strings](https://github.com/Aditiruhela/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditiruhela/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -175,6 +178,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0049-group-anagrams](https://github.com/Aditiruhela/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
