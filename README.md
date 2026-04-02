@@ -80,6 +80,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditiruhela/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## String
@@ -132,6 +133,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Aditiruhela/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -143,6 +145,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aditiruhela/Leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -260,5 +263,6 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aditiruhela/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditiruhela/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
