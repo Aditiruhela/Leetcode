@@ -12,15 +12,9 @@ class Solution {
                 else if(st.size()==0 || st.peek()<=0) st.push(x); 
             }
         }
-        ArrayList<Integer>list=new ArrayList<>();
-        for(int x:st){
-            list.add(x);
-        }
-        int []ans=new int[list.size()];
-        int i=0;
-        for(int x:list){
-            ans[i]=x;
-            i++;
+        int []ans=new int[st.size()];
+        for(int i=st.size()-1;i>=0;i--){
+            ans[i]=st.pop();
         }
         return ans;
     }
