@@ -83,6 +83,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditiruhela/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditiruhela/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -135,6 +136,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditiruhela/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Aditiruhela/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -246,6 +248,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditiruhela/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditiruhela/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
