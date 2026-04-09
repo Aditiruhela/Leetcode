@@ -290,6 +290,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +300,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +311,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
