@@ -42,6 +42,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditiruhela/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1641-count-sorted-vowel-strings](https://github.com/Aditiruhela/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Aditiruhela/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aditiruhela/Leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -173,6 +174,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0198-house-robber](https://github.com/Aditiruhela/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aditiruhela/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1641-count-sorted-vowel-strings](https://github.com/Aditiruhela/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,4 +331,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Aditiruhela/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 <!---LeetCode Topics End-->
