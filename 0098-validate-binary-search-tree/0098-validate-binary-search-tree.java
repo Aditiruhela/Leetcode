@@ -1,12 +1,12 @@
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return  isValidBST(root,Long.MIN_VALUE,Long.MAX_VALUE);
+        return  isValid(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
-    public boolean isValidBST(TreeNode root,long min,long max){
+    public boolean isValid(TreeNode root,long lmax,long rmin){
         if(root==null) return true;
-        if(root.val<=min || root.val>=max) return false;
-        if(!isValidBST(root.left,min,root.val)) return false;
-        if(!isValidBST(root.right,root.val,max)) return false;
-        else return true;
+        if(root.val<=lmax || root.val>=rmin) return false;
+        boolean left=isValid(root.left,lmax,root.val);
+        boolean right=isValid(root.right,root.val,rmin);
+        return left&& right;
     }
 }
