@@ -84,6 +84,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0232-implement-queue-using-stacks](https://github.com/Aditiruhela/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aditiruhela/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aditiruhela/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -147,6 +148,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0238-product-of-array-except-self](https://github.com/Aditiruhela/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aditiruhela/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aditiruhela/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -268,6 +270,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditiruhela/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Aditiruhela/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditiruhela/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
