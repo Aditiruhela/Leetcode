@@ -19,9 +19,7 @@ class Solution {
             else st.push(s.charAt(i));
         }
         String ans="";
-        while(st.size()!=0){
-            ans+=st.pop();
-        }
-        return reverse(ans);
+        for(char x:st) ans+=x;
+        return ans;
     }
 }
