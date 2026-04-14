@@ -156,6 +156,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditiruhela/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Aditiruhela/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Aditiruhela/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
