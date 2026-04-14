@@ -160,6 +160,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditiruhela/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -209,6 +210,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditiruhela/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditiruhela/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
