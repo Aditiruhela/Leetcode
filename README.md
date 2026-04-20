@@ -161,6 +161,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditiruhela/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Aditiruhela/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditiruhela/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Aditiruhela/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
@@ -196,6 +197,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aditiruhela/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Aditiruhela/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
