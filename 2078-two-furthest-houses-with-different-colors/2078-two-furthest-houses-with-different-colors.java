@@ -19,9 +19,11 @@ class Solution {
                break;
             }else j--;
         }
+        i=0;
+        j=n-1;
         while(i<n){
             if(arr[i]!=arr[j]){
-                ans=Math.abs(i-j);
+                ans=Math.max(ans,Math.abs(i-j));
                 break;
             }else i++;
         }
