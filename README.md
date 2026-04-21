@@ -22,6 +22,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0203-remove-linked-list-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0029-divide-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditiruhela/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/Aditiruhela/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
@@ -83,6 +85,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0225-implement-stack-using-queues](https://github.com/Aditiruhela/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditiruhela/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aditiruhela/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
