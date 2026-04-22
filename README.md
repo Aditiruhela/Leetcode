@@ -68,6 +68,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0344-reverse-string](https://github.com/Aditiruhela/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Aditiruhela/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0541-reverse-string-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditiruhela/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Aditiruhela/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Aditiruhela/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -121,6 +122,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/Aditiruhela/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/Aditiruhela/Leetcode/tree/main/0520-detect-capital/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditiruhela/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Aditiruhela/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Aditiruhela/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
