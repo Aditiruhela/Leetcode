@@ -159,6 +159,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aditiruhela/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Aditiruhela/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aditiruhela/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -241,6 +242,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditiruhela/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Aditiruhela/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Aditiruhela/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
