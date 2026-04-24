@@ -4,7 +4,7 @@ class Solution {
         int n=s.length();
         for(int i=0;i<n;i++){
             char ch=s.charAt(i);
-            if(st.size()==0){
+            if(st.size()==0) {
                 st.push(ch);
                 continue;
             }
@@ -14,6 +14,6 @@ class Solution {
             else st.push(ch);
         }
         if(st.size()!=0) return false;
-        else return true;
+        return true;
     }
 }
