@@ -165,6 +165,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0735-asteroid-collision](https://github.com/Aditiruhela/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aditiruhela/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Aditiruhela/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditiruhela/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Aditiruhela/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
