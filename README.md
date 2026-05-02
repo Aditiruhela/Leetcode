@@ -102,6 +102,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditiruhela/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -135,6 +136,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditiruhela/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aditiruhela/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditiruhela/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditiruhela/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3340-check-balanced-string](https://github.com/Aditiruhela/Leetcode/tree/main/3340-check-balanced-string/) | Easy |
@@ -190,6 +192,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aditiruhela/Leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Dynamic Programming
