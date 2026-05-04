@@ -130,6 +130,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0647-palindromic-substrings](https://github.com/Aditiruhela/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Aditiruhela/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0796-rotate-string](https://github.com/Aditiruhela/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Aditiruhela/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Aditiruhela/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditiruhela/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -243,6 +244,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/Aditiruhela/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
