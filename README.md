@@ -38,6 +38,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Aditiruhela/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Aditiruhela/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
