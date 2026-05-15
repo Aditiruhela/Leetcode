@@ -138,6 +138,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditiruhela/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aditiruhela/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditiruhela/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aditiruhela/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditiruhela/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -237,6 +238,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0560-subarray-sum-equals-k](https://github.com/Aditiruhela/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditiruhela/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aditiruhela/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aditiruhela/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditiruhela/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -262,6 +264,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0643-maximum-average-subarray-i](https://github.com/Aditiruhela/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aditiruhela/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Aditiruhela/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aditiruhela/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +288,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aditiruhela/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
