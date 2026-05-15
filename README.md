@@ -144,6 +144,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aditiruhela/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3340-check-balanced-string](https://github.com/Aditiruhela/Leetcode/tree/main/3340-check-balanced-string/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Aditiruhela/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3813-vowel-consonant-score](https://github.com/Aditiruhela/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2390-removing-stars-from-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/Aditiruhela/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
