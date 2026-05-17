@@ -21,3 +21,14 @@ class Solution {
         return 1+Math.max(left,right);
     }
 }
+
+//ON GFG
+// class Solution {
+//     public int height(Node root) {
+//         // code here
+//         if(root==null) return -1;
+//         int left=height(root.left);
+//         int right=height(root.right);
+//         return 1+Math.max(left,right);
+//     }
+// }
