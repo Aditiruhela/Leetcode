@@ -3,17 +3,17 @@ class Solution {
         Stack<Character>st=new Stack<>();
         int n=s.length();
         for(int i=0;i<n;i++){
-            char ch=s.charAt(i);
-            if(st.size()==0) {
-                st.push(ch);
+            char x=s.charAt(i);
+            if(st.size()==0){
+                st.push(x);
                 continue;
             }
-            if(ch==')' && st.peek()=='(') st.pop();
-            else if(ch==']' && st.peek()=='[') st.pop();
-            else if(ch=='}' && st.peek()=='{') st.pop();
-            else st.push(ch);
+            if(x==']' && st.peek()=='[') st.pop();
+            else if(x==')' && st.peek()=='(') st.pop();
+            else if(x=='}' && st.peek()=='{') st.pop();
+            else st.push(x);
         }
-        if(st.size()!=0) return false;
-        return true;
+        if(st.size()==0) return true;
+        else return false;
     }
 }
