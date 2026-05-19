@@ -76,6 +76,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0647-palindromic-substrings](https://github.com/Aditiruhela/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Aditiruhela/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditiruhela/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditiruhela/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -239,6 +241,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditiruhela/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aditiruhela/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aditiruhela/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditiruhela/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -309,6 +312,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditiruhela/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Aditiruhela/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
