@@ -183,6 +183,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditiruhela/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Aditiruhela/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -225,6 +226,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0011-container-with-most-water](https://github.com/Aditiruhela/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditiruhela/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Aditiruhela/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Aditiruhela/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
