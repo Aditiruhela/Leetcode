@@ -53,6 +53,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2235-add-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Aditiruhela/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aditiruhela/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2652-sum-multiples](https://github.com/Aditiruhela/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
