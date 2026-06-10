@@ -290,6 +290,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +346,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0155-min-stack](https://github.com/Aditiruhela/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Aditiruhela/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditiruhela/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Aditiruhela/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aditiruhela/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
@@ -372,6 +374,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0222-count-complete-tree-nodes](https://github.com/Aditiruhela/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,6 +405,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0222-count-complete-tree-nodes](https://github.com/Aditiruhela/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +421,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0098-validate-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +429,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Aditiruhela/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aditiruhela/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Enumeration
