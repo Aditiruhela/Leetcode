@@ -188,6 +188,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2126-destroying-asteroids](https://github.com/Aditiruhela/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Aditiruhela/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditiruhela/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -209,6 +210,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2169-count-operations-to-obtain-zero](https://github.com/Aditiruhela/Leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Aditiruhela/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/Aditiruhela/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -293,6 +295,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/Aditiruhela/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Aditiruhela/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
