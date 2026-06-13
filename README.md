@@ -149,6 +149,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [3340-check-balanced-string](https://github.com/Aditiruhela/Leetcode/tree/main/3340-check-balanced-string/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Aditiruhela/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/Aditiruhela/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Aditiruhela/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditiruhela/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Aditiruhela/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Aditiruhela/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [3701-compute-alternating-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/Aditiruhela/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Aditiruhela/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
