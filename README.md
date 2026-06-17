@@ -189,6 +189,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditiruhela/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Aditiruhela/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aditiruhela/Leetcode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Aditiruhela/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -237,6 +238,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditiruhela/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Aditiruhela/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aditiruhela/Leetcode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditiruhela/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -271,6 +273,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/Aditiruhela/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Aditiruhela/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aditiruhela/Leetcode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -304,6 +307,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0506-relative-ranks](https://github.com/Aditiruhela/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/Aditiruhela/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aditiruhela/Leetcode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Aditiruhela/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
