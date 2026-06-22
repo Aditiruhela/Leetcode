@@ -42,6 +42,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0012-integer-to-roman](https://github.com/Aditiruhela/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -230,6 +231,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0053-maximum-subarray](https://github.com/Aditiruhela/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditiruhela/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Aditiruhela/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0264-ugly-number-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aditiruhela/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Aditiruhela/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
@@ -254,6 +256,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0141-linked-list-cycle](https://github.com/Aditiruhela/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Aditiruhela/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aditiruhela/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -307,6 +310,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/Aditiruhela/Leetcode/tree/main/0506-relative-ranks/) | Easy |
