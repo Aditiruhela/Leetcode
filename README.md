@@ -4,16 +4,16 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0029-divide-two-integers](https://github.com/Aditiruhela/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Aditiruhela/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0389-find-the-difference](https://github.com/Aditiruhela/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditiruhela/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aditiruhela/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditiruhela/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aditiruhela/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -26,8 +26,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0445-add-two-numbers-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aditiruhela/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Aditiruhela/Leetcode/tree/main/0143-reorder-list/) | Medium |
@@ -35,8 +35,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0206-reverse-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Aditiruhela/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Aditiruhela/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Aditiruhela/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
@@ -57,8 +57,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2652-sum-multiples](https://github.com/Aditiruhela/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditiruhela/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditiruhela/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Aditiruhela/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditiruhela/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -82,8 +82,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditiruhela/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Aditiruhela/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aditiruhela/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
@@ -111,8 +111,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2390-removing-stars-from-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditiruhela/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Aditiruhela/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Aditiruhela/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
@@ -154,8 +154,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [3813-vowel-consonant-score](https://github.com/Aditiruhela/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Aditiruhela/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Aditiruhela/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Aditiruhela/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
@@ -167,6 +167,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditiruhela/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aditiruhela/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditiruhela/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Aditiruhela/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -205,8 +206,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Aditiruhela/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Aditiruhela/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aditiruhela/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -225,8 +226,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [3834-merge-adjacent-equal-elements](https://github.com/Aditiruhela/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Aditiruhela/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditiruhela/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aditiruhela/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aditiruhela/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -237,8 +238,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Aditiruhela/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Aditiruhela/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditiruhela/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditiruhela/Leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -247,8 +248,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aditiruhela/Leetcode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditiruhela/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditiruhela/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Aditiruhela/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
@@ -272,8 +273,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditiruhela/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Aditiruhela/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0049-group-anagrams](https://github.com/Aditiruhela/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Aditiruhela/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -286,13 +287,13 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aditiruhela/Leetcode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditiruhela/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditiruhela/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Aditiruhela/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditiruhela/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Aditiruhela/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -300,19 +301,19 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [1652-defuse-the-bomb](https://github.com/Aditiruhela/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aditiruhela/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/Aditiruhela/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/Aditiruhela/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -324,60 +325,62 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aditiruhela/Leetcode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Aditiruhela/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditiruhela/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aditiruhela/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditiruhela/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditiruhela/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Aditiruhela/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aditiruhela/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aditiruhela/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditiruhela/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditiruhela/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Aditiruhela/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aditiruhela/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/Aditiruhela/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Aditiruhela/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aditiruhela/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Aditiruhela/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditiruhela/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/Aditiruhela/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditiruhela/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Aditiruhela/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/Aditiruhela/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Aditiruhela/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditiruhela/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -386,16 +389,16 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0901-online-stock-span](https://github.com/Aditiruhela/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aditiruhela/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aditiruhela/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditiruhela/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Aditiruhela/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditiruhela/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditiruhela/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0100-same-tree/) | Easy |
@@ -412,21 +415,22 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0100-same-tree/) | Easy |
@@ -443,34 +447,35 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Aditiruhela/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aditiruhela/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Aditiruhela/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aditiruhela/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Aditiruhela/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 <!---LeetCode Topics End-->
