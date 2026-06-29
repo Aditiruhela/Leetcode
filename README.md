@@ -182,6 +182,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0682-baseball-game](https://github.com/Aditiruhela/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aditiruhela/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aditiruhela/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Aditiruhela/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aditiruhela/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Aditiruhela/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -352,6 +353,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditiruhela/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -378,6 +380,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aditiruhela/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -428,6 +431,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -456,6 +460,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0112-path-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
