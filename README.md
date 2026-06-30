@@ -353,6 +353,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditiruhela/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Search
 |  |
@@ -431,6 +432,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -460,6 +462,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0112-path-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -483,4 +486,8 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 |  |
 | ------- |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Aditiruhela/Leetcode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
