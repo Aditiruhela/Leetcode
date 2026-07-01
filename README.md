@@ -431,6 +431,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditiruhela/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/Aditiruhela/Leetcode/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -462,6 +463,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0112-path-sum](https://github.com/Aditiruhela/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/Aditiruhela/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/Aditiruhela/Leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
@@ -489,5 +491,10 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aditiruhela/Leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aditiruhela/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
