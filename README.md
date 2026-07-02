@@ -434,6 +434,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0207-course-schedule](https://github.com/Aditiruhela/Leetcode/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditiruhela/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Aditiruhela/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -465,6 +466,7 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | [0199-binary-tree-right-side-view](https://github.com/Aditiruhela/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Aditiruhela/Leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Aditiruhela/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Aditiruhela/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -493,8 +495,10 @@ Its my leecode journey to understand problems and to give me ideas to future me 
 | ------- |
 | [0207-course-schedule](https://github.com/Aditiruhela/Leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Aditiruhela/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Aditiruhela/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aditiruhela/Leetcode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Aditiruhela/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
